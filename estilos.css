@@ -10947,4 +10947,10 @@ textarea.form-control-lg {
   background-size: cover;
   -o-object-fit: contain;
      object-fit: contain;
+}
+
+footer {
+  background-color: rgb(23, 23, 121);
+  height: 15rem;
+  color: white;
 }/*# sourceMappingURL=estilos.css.map */
