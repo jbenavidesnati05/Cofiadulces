@@ -1,0 +1,13 @@
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+.contenedor{
+    width: 90%;
+    margin: auto;
+}
+.banner{
+    height: 20rem;
+    background-image: url(img/producto-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: contain;
+}
